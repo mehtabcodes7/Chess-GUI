@@ -1,3 +1,5 @@
+#Mehtab Codes Presents
+#Chess Game Using Python
 import tkinter as tk
 from tkinter import PhotoImage, messagebox
 import tkinter
