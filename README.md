@@ -21,5 +21,13 @@ Download the following packages with these commands in your terminal:-
 pip install tkinter
 pip install chess
 
-Now just subscribe my youtube channel😉 :- https://www.youtube.com/@mehtabcodes
-Follow me on Instagram :- https://www.instagram.com/mehtabcodesofficial
+## Acknowledgements
+
+ - [Subscribe Me on Youtube❤️](https://www.youtube.com/@mehtabcodes)
+ - [Follow Me On Instagram😉](https://www.instagram.com/mehtabcodes/)
+ - [More Amazing Repositories](https://github.com/mehtabcodes7)
+
+
+## Technologies Used In This Repository
+HTML5,
+CSS3
